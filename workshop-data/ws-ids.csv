@@ -1,4 +1,4 @@
-page_number,sum_id,participant_id,annotation_id,analysis_code,code_group
+page_number,sum_id,participant_id,annotation_id,code_number,category_name
 632,001-1,P01,ANN-0001,C001,A
 632,001-1,P01,ANN-0002,C003,A
 632,001-1,P01,ANN-0003,C003,A
